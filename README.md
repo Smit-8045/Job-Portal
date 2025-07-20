@@ -113,16 +113,7 @@ A full-stack job portal application built with React, Node.js, and MongoDB. Feat
    - Frontend: `http://localhost:5173`
    - Backend API: `http://localhost:5000`
 
-## 📱 Screenshots
 
-### Homepage
-![Homepage](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Job+Portal+Homepage)
-
-### Job Search
-![Job Search](https://via.placeholder.com/800x400/10B981/FFFFFF?text=Advanced+Job+Search)
-
-### Recruiter Dashboard
-![Dashboard](https://via.placeholder.com/800x400/F59E0B/FFFFFF?text=Recruiter+Dashboard)
 
 ## 🔧 API Endpoints
 
